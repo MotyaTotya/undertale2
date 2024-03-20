@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(39, 42, 39);
+}
+#hero{
+    width: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(50%,50%);
+}
+#boss{
+    position: absolute;
+    width: 400px;
+    image-rendering: pixelated;
+}
+#line{
+    width: 1600px;
+    position: absolute;
+    left: 20%;
+    top: -30%;
+    image-rendering: pixelated;
+}
